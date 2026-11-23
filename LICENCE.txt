@@ -1,0 +1,21 @@
+Licence
+
+Copyright (c) 2026 Alternate Orbital Studios
+
+1. Models, textures, sounds made for this mod, configs, craft files, flags, documents and all other art
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+   https://creativecommons.org/licenses/by-nc-sa/4.0/
+   You may share and adapt this material for non-commercial purposes if you credit "Alternate Orbital Studios", link the
+   licence, say what you changed, and share your changes under the same licence. You may not sell it or use it commercially.
+   This includes the Aquila lander parts in GameData/RomaAeterna, where present.
+
+2. Plugin code and scripts (where the package has them)
+   The C# source code in GameData/CaelusSmoke/Source, the plugin DLLs built from it, and the kOS mission scripts (Ships/Script) are under
+   the MIT License: see GameData/CaelusSmoke/Source/LICENSE-CODE.txt.
+
+3. Third-party material
+   - The engine sounds cut from NASA recordings are in the public domain (see CREDITS.txt). NASA does not endorse this mod.
+   - All other sounds are KSP's own stock sounds, used from the game itself; they are not included.
+   - The required and optional add-ons named in README.txt are not included and keep their own licences.
+
+4. The paid CAELUS Ultra-Detail pack is a separate product with its own licence and is not covered by this licence.
