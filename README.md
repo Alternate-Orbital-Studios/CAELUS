@@ -6,6 +6,10 @@ A three-stage Moon rocket for Kerbal Space Program 1.12, with the Corona command
 
 **[Download the latest release](../../releases/latest)**: `CAELUS.zip`, `StatioCaelestisAromata_FREE.zip` (launch site) and `CAELUS_RomanSuit.zip`.
 
+**Watch the film:** [CAELUS: To the Moon | KSP Cinematic](https://youtu.be/j4J1re3cbTU)
+
+[![CAELUS film on YouTube](https://i.ytimg.com/vi/j4J1re3cbTU/maxresdefault.jpg)](https://youtu.be/j4J1re3cbTU)
+
 ![Night liftoff](media/CAELUS_liftoff_night.gif) ![Moon landing](media/CAELUS_moon_landing.gif)
 
 ## What you get (free)
